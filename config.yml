@@ -1,7 +1,7 @@
-token: "xxxxxxxxxxxxxxxx"    # Lichess OAuth2 Token.
+token: "lip_N1LBBSJVChn4M8xuYcQe"    # Lichess OAuth2 Token.
 url: "https://lichess.org/"  # Lichess base URL.
 
-engine:                      # Engine settings.
+engine:stockfish.exe                     # Engine settings.
   dir: "./"                  # Directory containing engines, relative to this project.
   name: "chess-engine"    # Binary name of the engine to use.
   protocol: "uci"            # "uci" or "xboard"
